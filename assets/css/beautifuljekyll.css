@@ -11,7 +11,7 @@ html {
 }
 
 body {
-  font-family: 'Acumin Pro', 'Core Sans D', serif;
+  font-family: 'Open Sans', 'Helvetica Neue', serif;
   font-size: 1.125rem;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
