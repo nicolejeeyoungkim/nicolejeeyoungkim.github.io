@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Data Scientist
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hello! My name is Nicole Kim. I'm currently a data scientist at Wealthsimple and I'm a recent grad from UWaterloo! (BMath in Computational Mathematics)
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Outside of work, here are some of my interests:
+- Baking, Cooking
+- Video Games (Teamfight Tactics)
 
-What else do you need?
 
-### My story
+### Let's chat!
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Feel free to email me/message me on Linkedin if you're down for a coffee chat! (if you're in Toronto)
