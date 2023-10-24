@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Resume
-subtitle: Data Scientist
 ---
 
 Nicole Kim
