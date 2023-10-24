@@ -22,9 +22,6 @@ author: Nicole Kim
 navbar-links:
   About Me: "aboutme"
   Resume: "resume"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
   Services: 
     - Tutoring: "tutoring"
     - Career/Highschool Coaching: "coaching"
