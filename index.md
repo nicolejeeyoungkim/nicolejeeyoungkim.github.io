@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Home
 subtitle: Data Scientist
 ---
 
